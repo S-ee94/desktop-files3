@@ -1,0 +1,10 @@
+Customer_ID,Inovice_no,Invoice_Date,Month,Product_Category, Sales ,Quantity, Profit 
+LS-001,BV1,01-01-2017,Jan,Beverages,$140.00,2,$46.00
+IZ-002,BV2,01-06-2017,Jan,Healthcare and Beauty ,$211.00,3,$112.01
+EN-003,BV3,01-11-2017,Jan,Dairy,$117.00,5,$31.15
+AN-004,BV4,1/14/17,Jan,Beverages,$118.00,2,$26.20
+ON-005,BV5,1/17/17,Jan,Healthcare and Beauty ,$250.00,1,$160.00
+TO-006,BV6,1/18/17,Jan,Dairy,$72.00,3,$24.00
+OM-007,BV7,1/21/17,Jan,Home and Furniture,$54.00,1,$54.00
+AN-008,BV8,1/24/17,Jan,Home and Furniture,$114.00,5,$22.60
+EN-009,BV9,1/28/17,Jan,Beverages,$231.00,5,$116.35

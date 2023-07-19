@@ -1,0 +1,79 @@
+Interview Q's for R - 
+
+https://data-flair.training/blogs/r-interview-questions/ - check this 
+https://www.kaggle.com/rtatman/beginner-s-tutorial-r - check this - Rachael Tatman 
+
+https://intellipaat.com/blog/interview-question/data-science-interview-questions/
+
+Job Application - https://jobs.intellipaat.com/
+
+check this - https://data-flair.training/blogs/data-science-r-movie-recommendation/ - 11/08/2021 
+
+
+interview links ---------
+
+1) https://www.guru99.com/r-interview-questions.html
+
+2) https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions - site of reference
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiqmu_N8cPyAhUBTCsKHSH_C3MYABAAGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2hJx9GP0ZEOpXnvelJ0KcWJ_JAtxsa_qWFry9LW2Spcqcs1zE5a_-bzGKnqQXfTmjoaRmRJVDmG2gSk-YG0Q&sig=AOD64_2WUge9nvdawv9DvkjHG8fsdeugiw&q&adurl&ved=2ahUKEwiciefN8cPyAhVq73MBHY3yCVcQ0Qx6BAgEEAE
+
+- Data Camp 
+
+courses link - https://learn.datacamp.com/courses/
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DataSets Practice
+
+https://youtu.be/Zx2TguRHrJE
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Currently working on
+
+completed till - Explore->3-> 3.4 done, need to start from 3.5 Facets
+
+source of the book - https://github.com/hadley/r4ds
+
+https://bookdown.org/
+
+https://r4ds.had.co.nz/introduction.html - check this - 28-09-2021
+
+for errors - http://stackoverflow.com/
+
+follow this - https://blog.rstudio.org/ or https://twitter.com/rstudiotips - to learn new R packages 
+
+to keep up with R community - http://www.r-bloggers.com/
+
+http://stat545.com/block002_hello-r-workspace-wd-project.html - workflow
+
+https://github.com/rstudio/bookdown - bookdown package 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

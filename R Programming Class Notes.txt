@@ -1,0 +1,116 @@
+R Programming - first course - Abhishek A - 10+ yrs
+
+https://drive.google.com/drive/u/0/folders/1Q7oKXSeYkvi7gj-0XmQLGWPejicLswK1
+ or https://drive.google.com/drive/folders/12QtgNoRzix6MMpuMBeBeEWr01_RtwLax  - code snippets - R and Data Science - LMS Portal link 
+
+LMS Guidelines link - https://www.youtube.com/watch?v=ePjWxpgKcC8&list=PLVHgQku8Z937AQKNJxk40hs6gdUy_
+
+Recordings available in LMS Portal 
+
+"C:/Users/seema/Documents" = default one 
+
+R = 3.5 = studio 
+
+Live Classes link -  https://us02web.zoom.us/webinar/register/WN_hkyufxJ6Sj2jppmrxCJfZg
+
+Batch Internal Meeting - weekends - https://us05web.zoom.us/j/9169007593?pwd=dERjQlQ5Rndja3ZsemllK056QU9DQT09
+
+1RIntro - refer this in g drive 
+
+Extra - 
+
+3 Blue 1 Brown channel for matrix algebra 
+
+https://www.kaggle.com/ - R platform 
+
+Rshiny package
+
+You can Analytics - http://ucanalytics.com/blogs/
+
+https://support.sas.com/resources/papers/proceedings/proceedings/sugi22/STATS/PAPER267.PDF -  read the white paper 
+
+https://www.overleaf.com/ - refer this for resume
+
+Lime and Shap model interpretability - try to read 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+syntax of chr and set factors - pd<- read.csv("DATAsCIENCE_MODULE1_MODULE2_MODULE3\\MODULE 2\\Data Set\\Data_Set_Data_Manipulation_in_R\\pfizer.csv", header = TRUE ,sep=",", stringsAsFactors = TRUE )
+
+# for getting the missing count 
+
+for(i in 1:ncol(my_df))
+{
+  print(sum(is.na(my_df[,i])))
+}
+
+for(i in names(my_df))
+{
+  print(sum(is.na(my_df[,i])))
+}
+
+read.csv("C:/Users/seema/Desktop/COURSE/Intellipaat Data Science Live Courses/DataScience with R Programming/CSV Files/customer_churn.csv")->customer_churn
+View(customer_churn)
+
+C:/Users/seema/Desktop/COURSE/Intellipaat Data Science Live Courses/DataScience with R Programming/R Files
+
+C:/Users/seema/Desktop/COURSE/Intellipaat Data Science Live Courses/DataScience with R Programming/CSV Files/Titanic/train.csv
+
+apply(pd, 2, function(x) sum(is.na(x)))  customer_churn$Contract[i]=="Two year" & customer_churn$TotalCharges[i]<7000
+
+apply(is.na(pd),2,sum)                                                                                                      
+
+try this - write.csv(customer_churn, file = "D:/Intellipaat/dataScience_new/MyData.csv") - done 
+
+
+Ask Questions-
+
+https://join.slack.com/t/smartaicoders/shared_invite/zt-qxag0q6f-T1qblfjO4N3I4hnTaCQkiQ
+ 
+Abhishek sir email id: abhim701@hotmail.com
+Skype - Abhishek A
+
+#deeksha's trainer suggestions--------
+
+https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets - for data sets to practice
+
+ankur agarwal - drive - https://drive.google.com/drive/u/0/folders/1j6XyaFGP1USdyKbUlSGP60mtz-2arqN2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
